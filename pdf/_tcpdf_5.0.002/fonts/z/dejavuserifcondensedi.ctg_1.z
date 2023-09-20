@@ -1,0 +1,29 @@
+nclude\\header.php on line 796, referer: http://www.pajezycms.local/gallery.php
+[Mon Apr 09 12:37:29.615354 2018] [:error] [pid 2084:tid 2024] [client 127.0.0.1:63468] PHP Notice:  Undefined variable: icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/index.php
+[Mon Apr 09 12:37:29.615354 2018] [:error] [pid 2084:tid 2024] [client 127.0.0.1:63468] PHP Notice:  Undefined variable: stats_icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/index.php
+[Mon Apr 09 12:37:42.581780 2018] [:error] [pid 2084:tid 1960] [client 127.0.0.1:63797] PHP Notice:  Undefined variable: icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/index.php
+[Mon Apr 09 12:37:42.581780 2018] [:error] [pid 2084:tid 1960] [client 127.0.0.1:63797] PHP Notice:  Undefined variable: stats_icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/index.php
+[Mon Apr 09 16:50:15.071205 2018] [:error] [pid 2084:tid 2020] [client 127.0.0.1:53286] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in F:\\xampp5\\htdocs\\bobcloud\\wp-admin\\includes\\class-wp-upgrader-skin.php on line 93, referer: http://www.bobcloud.local/wp-cron.php?doing_wp_cron=1523272813.0308029651641845703125
+[Tue Apr 10 09:08:33.709506 2018] [ssl:warn] [pid 6532:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 10 09:08:33.841017 2018] [core:warn] [pid 6532:tid 660] AH00098: pid file F:/xampp5/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 10 09:08:33.925664 2018] [ssl:warn] [pid 6532:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[Tue Apr 10 09:08:38.370497 2018] [mpm_winnt:notice] [pid 6532:tid 660] AH00455: Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.24 configured -- resuming normal operations
+[Tue Apr 10 09:08:38.370497 2018] [mpm_winnt:notice] [pid 6532:tid 660] AH00456: Apache Lounge VC11 Server built: Jul  7 2016 11:13:22
+[Tue Apr 10 09:08:38.370497 2018] [core:notice] [pid 6532:tid 660] AH00094: Command line: 'f:\\xampp5\\apache\\bin\\httpd.exe -d F:/xampp5/apache'
+[Tue Apr 10 09:08:38.410103 2018] [mpm_winnt:notice] [pid 6532:tid 660] AH00418: Parent: Created child process 9832
+AH00548: NameVirtualHost has no effect and will be removed in the next release F:/xampp5/apache/conf/extra/httpd-vhosts.conf:20
+[Tue Apr 10 09:08:38.914848 2018] [ssl:warn] [pid 9832:tid 684] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 10 09:08:39.115144 2018] [ssl:warn] [pid 9832:tid 684] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[Tue Apr 10 09:08:39.146393 2018] [mpm_winnt:notice] [pid 9832:tid 684] AH00354: Child: Starting 150 worker threads.
+[Tue Apr 10 09:57:05.573794 2018] [:error] [pid 9832:tid 2016] [client 127.0.0.1:59180] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in F:\\xampp5\\htdocs\\bobcloud\\wp-admin\\includes\\class-wp-upgrader-skin.php on line 93, referer: http://www.bobcloud.local/wp-cron.php?doing_wp_cron=1523334421.2759170532226562500000
+[Tue Apr 10 16:19:35.885762 2018] [:error] [pid 9832:tid 1956] [client 127.0.0.1:61804] PHP Notice:  Undefined variable: icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/index.php
+[Tue Apr 10 16:19:35.897293 2018] [:error] [pid 9832:tid 1956] [client 127.0.0.1:61804] PHP Notice:  Undefined variable: stats_icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/index.php
+[Tue Apr 10 16:19:52.182376 2018] [:error] [pid 9832:tid 1956] [client 127.0.0.1:61813] PHP Notice:  Undefined variable: icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/available-services.php
+[Tue Apr 10 16:19:52.190901 2018] [:error] [pid 9832:tid 1956] [client 127.0.0.1:61813] PHP Notice:  Undefined variable: stats_icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/available-services.php
+[Tue Apr 10 16:20:05.555935 2018] [:error] [pid 9832:tid 1996] [client 127.0.0.1:61829] PHP Notice:  Undefined variable: icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/purchase-service.php
+[Tue Apr 10 16:20:05.555935 2018] [:error] [pid 9832:tid 1996] [client 127.0.0.1:61829] PHP Notice:  Undefined variable: stats_icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/purchase-service.php
+[Tue Apr 10 16:20:15.349138 2018] [:error] [pid 9832:tid 1996] [client 127.0.0.1:61839] PHP Notice:  Undefined variable: icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/billing-management.php
+[Tue Apr 10 16:20:15.349138 2018] [:error] [pid 9832:tid 1996] [client 127.0.0.1:61839] PHP Notice:  Undefined variable: stats_icons_array in F:\\xampp5\\htdocs\\pajezy_cms\\include\\header.php on line 796, referer: http://www.pajezycms.local/billing-management.php
+[Tue Apr 10 16:20:58.038011 2018] [:error] [pid 9832:tid 1980] [client 127.0.0.1:61858] PHP Notice:  Undefined variable: i
